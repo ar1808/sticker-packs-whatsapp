@@ -1,5 +1,7 @@
 # Sticker Packs for WhatsApp (Android)
 
+![LOGO](https://lh3.googleusercontent.com/H9FCUZEOqzkW5R1k2AIxdVg92JpFd-uz_3wfqmeraKf9GftF9cjfZG5hnfX3Sz_dnQ=s200-rw)
+
 A new way to express your words with stickers 😎
 
 Stickers help your share your feelings in a way that you can't express with words.
