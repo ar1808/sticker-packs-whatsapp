@@ -2,6 +2,8 @@
 
 ![LOGO](https://lh3.googleusercontent.com/H9FCUZEOqzkW5R1k2AIxdVg92JpFd-uz_3wfqmeraKf9GftF9cjfZG5hnfX3Sz_dnQ=s200-rw)
 
+Sticker Packs - Best stickers for chat.
+
 A new way to express your words with stickers 😎
 
 # Description
