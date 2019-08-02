@@ -4,6 +4,8 @@
 
 A new way to express your words with stickers 😎
 
+# Description
+
 Stickers help your share your feelings in a way that you can't express with words.
 
 #1000+ Stickers in different categories - Make your chats more fun 😂 by sending stickers to your friends and family.
@@ -23,3 +25,10 @@ Type less. Express more.
 # Download link
 
 https://play.google.com/store/apps/details?id=apps.arvindcode.stickerpacksapp
+
+# Screenshots
+
+![1](https://lh3.googleusercontent.com/aJCB3YL7yEmvVCW1S1K_lv4Rviq3F3ev7nnPs0LnaxcMPbcRbAMbfbwFUj7rEYsi7uk=w640-h440-rw)
+![2](https://lh3.googleusercontent.com/Rb3vtdJEC1SFSbyNmnzK8ZZHzEyLX1_kMGA8xxZteTzbXUqh6jlgLGXlzLguZtXOkQs=w640-h440-rw)
+
+
