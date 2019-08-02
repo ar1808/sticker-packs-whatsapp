@@ -1,4 +1,4 @@
-# sticker-packs-whatsapp
+# Sticker Packs for WhatsApp (Android)
 
 A new way to express your words with stickers 😎
 
